@@ -40,11 +40,12 @@ This project uses **Apriori algorithm** and **association rule mining** techniqu
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 Or manually:
-
+```
 pip install pandas matplotlib seaborn mlxtend scikit-learn
+```
 📁 Dataset
 Name: Heart Disease UCI
 
@@ -71,12 +72,11 @@ Visualizations showing relationship between variables
 Insights for possible medical diagnosis interpretation
 
 🚀 Getting Started
-bash
-Copy
-Edit
+````
 git clone https://github.com/yourusername/data-mining-project.git
 cd notebooks
 jupyter notebook association_rules.ipynb
+````
 ✍️ Authors
 Your Name
 
@@ -84,9 +84,6 @@ Collaborator Name
 
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-"""
 
-with open("README.md", "w", encoding="utf-8") as f:
-f.write(readme_content)
 
 
