@@ -1,4 +1,3 @@
-readme_content = """\
 # 🧠 Data Mining Project - Association Rule Mining for Heart Disease
 
 This repository contains data mining tasks and analysis focused on discovering patterns and insights using **Association Rule Mining**, particularly applied to a heart disease dataset.
